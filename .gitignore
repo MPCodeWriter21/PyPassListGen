@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+dist/
+build/
+PPLG/lib/Generate_cy.c
+Files/
+PyPassListGen*/
