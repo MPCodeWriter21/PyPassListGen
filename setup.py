@@ -32,7 +32,7 @@ setup(
     license=LICENSE,
     description=DESCRIPTION,
     long_description='See https://github.com/MPCodeWriter21/PyPassListGen',
-    long_description_content_type='text',
+    long_description_content_type='text/plain',
     install_requires=['log21', 'importlib_resources'],
     setup_requires=['cython'],
     packages=find_packages(),

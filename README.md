@@ -10,6 +10,7 @@ Requirements
 - [Cython](https://cython.readthedocs.io/en/latest/src/quickstart/install.html)
 - [setuptools](https://pypi.org/project/setuptools/)
 - [log21](https://github.com/MPCodeWriter21/log21)
+- [importlib_resources](https://pypi.org/project/importlib-resources/)
 
 *Note: You might need to install some of the requirements manually.*
 
