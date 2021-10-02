@@ -20,7 +20,7 @@ with open('LICENSE.txt', 'r') as file:
     LICENSE = file.read()
 
 DESCRIPTION = 'PyPassListGen is a python script that allows you to generate password lists fast and easily.'
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 EXT_MODULES = [Extension(name='PPLG.lib.Generate_cy', sources=["PPLG/lib/Generate_cy.pyx"])]
 
 setup(
@@ -33,7 +33,7 @@ setup(
     description=DESCRIPTION,
     long_description='See https://github.com/MPCodeWriter21/PyPassListGen',
     long_description_content_type='text',
-    install_requires=['log21'],
+    install_requires=['log21', 'importlib_resources'],
     setup_requires=['cython'],
     packages=find_packages(),
     entry_points={

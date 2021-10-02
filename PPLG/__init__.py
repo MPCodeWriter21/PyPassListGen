@@ -1,7 +1,7 @@
 # PPLG.__init__.py
 # CodeWriter21
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "CodeWriter21 (Mehrad Pooryoussof)"
 __github__ = "Https://GitHub.com/MPCodeWriter21/PyPassListGen"
 

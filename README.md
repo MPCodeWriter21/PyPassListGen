@@ -33,6 +33,12 @@ cd PyPassListGen
 python3 setup.py install
 ```
 
+Changes
+-------
+
+### 1.0.1
+A bug fixed.
+
 Usage
 -----
 
